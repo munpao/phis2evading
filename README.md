@@ -14,7 +14,7 @@ Repo นี้รวบรวม study notes และ reference materials ด�
 
 | ไฟล์ | เนื้อหา |
 |---|---|
-| [`rasta-hta-amsi-writeup.md`](rasta-hta-amsi-writeup.md) | **Lab Writeup** — วิเคราะห์ HTA dropper → AMSI bypass (Reflection) → hoaxshell kill chain จาก RastaLabs, decode ทุก obfuscation layer ทีละบรรทัด, MITRE ATT&CK mapping |
+| [`hta-amsi-writeup.md`](hta-amsi-writeup.md) | **Lab Writeup** — วิเคราะห์ HTA dropper → AMSI bypass (Reflection) → hoaxshell kill chain จาก RastaLabs, decode ทุก obfuscation layer ทีละบรรทัด, MITRE ATT&CK mapping |
 
 ---
 
