@@ -6,7 +6,7 @@
 
 Repo นี้รวบรวม study notes และ reference materials ด้าน **AV/EDR evasion** และ **AMSI bypass** ที่ผมเขียนขึ้นระหว่างเตรียมสอบ OSCP/OSEP — เป็น portfolio สำหรับอ้างอิงและแสดงความเข้าใจด้าน offensive security
 
-**Author:** [atipong](https://github.com/munpao)
+**Author:** [munpao](https://github.com/munpao)
 
 ---
 
